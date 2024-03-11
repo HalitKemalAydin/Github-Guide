@@ -5,7 +5,7 @@
 
 "https://code.visualstudio.com" You can download VSC from this site. / Adresinden VSC'yi indirebilirsiniz.
 
-![Alt text](<WSL install.png>)
+![Alt text](<WSL İnstall.png>)
 
 #### Download and Connection WSL / WSL İndirme ve Bağlanma
 
@@ -55,7 +55,7 @@ git config --global user.email "kullanıcıadi@gmail.com"
 
 ![Alt text](fork.png)
 
-![Alt text](<create fork .png>)
+![Alt text](<Create fork.png>)
 
 ##### (EN) After forking click "Code" and copy url to clone terminale.
 ##### (TR) Forkladıktan sonra terminale klonlamak için "code" a basıp linki koyalıyoruz.
@@ -96,7 +96,7 @@ explorer.exe .
 ##### (EN) The changes make accumulate one by one, and when press ‘Sync Changes’, they are sent to our Github account.
 ##### (TR) Yaptığımız değişiklikler tek tek birikir ve "Sync Changes" a bastığımızda Github hesabımıza yollar.
 
-![Alt text](<değişiklik .png>)
+![Alt text](<değişiklik.png>)
 
 ##### (EN) The change made appears in the repo we forked on our Github account, which shows that the configuration process was successful.
 ##### (TR) Yaptığımız değişiklik github hesabımızda forkladığımız repoda gözüküyor bu da konfigüre işleminin başarılı olduğunu gösterir. 
